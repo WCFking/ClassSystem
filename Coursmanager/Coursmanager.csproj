@@ -147,17 +147,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201911250234172_Creat201911251034.cs" />
-    <Compile Include="Migrations\201911250234172_Creat201911251034.Designer.cs">
-      <DependentUpon>201911250234172_Creat201911251034.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201911260149098_Class201911260948.cs" />
-    <Compile Include="Migrations\201911260149098_Class201911260948.Designer.cs">
-      <DependentUpon>201911260149098_Class201911260948.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201911260331294_Users201911261131.cs" />
-    <Compile Include="Migrations\201911260331294_Users201911261131.Designer.cs">
-      <DependentUpon>201911260331294_Users201911261131.cs</DependentUpon>
+    <Compile Include="Migrations\201912120742564_wucunfeng20191212.cs" />
+    <Compile Include="Migrations\201912120742564_wucunfeng20191212.Designer.cs">
+      <DependentUpon>201912120742564_wucunfeng20191212.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Migrations\Seeds\ActionLinkCreate.cs" />
@@ -188,6 +180,8 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\adce12a70b938abe30d573f370ea9861.jpg" />
+    <Content Include="Images\untitled1.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
@@ -276,14 +270,8 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201911250234172_Creat201911251034.resx">
-      <DependentUpon>201911250234172_Creat201911251034.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201911260149098_Class201911260948.resx">
-      <DependentUpon>201911260149098_Class201911260948.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201911260331294_Users201911261131.resx">
-      <DependentUpon>201911260331294_Users201911261131.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201912120742564_wucunfeng20191212.resx">
+      <DependentUpon>201912120742564_wucunfeng20191212.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
